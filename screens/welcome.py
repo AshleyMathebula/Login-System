@@ -18,7 +18,7 @@ class WelcomeScreen(QWidget):
     signup_requested = Signal()
     exit_requested = Signal()
 
-    WELCOME_TEXT = "Welcome to Thebu Tech Solutions"
+    WELCOME_TEXT = "Login System"
 
     def __init__(self, parent=None, db=None):
         super().__init__(parent)

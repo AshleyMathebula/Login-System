@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Login-System-GUI-main.iml" filepath="$PROJECT_DIR$/.idea/Login-System-GUI-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Login-System-GUI.iml" filepath="$PROJECT_DIR$/.idea/Login-System-GUI.iml" />
     </modules>
   </component>
 </project>
